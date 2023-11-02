@@ -267,7 +267,7 @@ Project Link: [https://github.com/GeorgiosIoannouCoder/generate-and-test-prime](
 [issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/generate-and-test-primeit.svg?style=for-the-badge
 [issues-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/issues
 [license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/generate-and-test-primepit.svg?style=for-the-badge
-[license-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/blob/master/LICENSE
+[license-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://linkedin.com/in/georgiosioannoucoder
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=000
