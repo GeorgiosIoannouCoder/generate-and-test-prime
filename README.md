@@ -254,20 +254,20 @@ Georgios Ioannou - [@LinkedIn](https://linkedin.com/in/georgiosioannoucoder)
 
 Georgios Ioannou - [@georgiosioannoucoder](https://georgiosioannoucoder.github.io/) - Please contact me via the form in my portfolio.
 
-Project Link: [https://github.com/GeorgiosIoannouCoder/shopit](https://github.com/GeorgiosIoannouCoder/shopit)
+Project Link: [https://github.com/GeorgiosIoannouCoder/generate-and-test-prime](https://github.com/GeorgiosIoannouCoder/generate-and-test-prime)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/GeorgiosIoannouCoder/shopit.svg?style=for-the-badge
-[contributors-url]: https://github.com/GeorgiosIoannouCoder/shopit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GeorgiosIoannouCoder/shopit.svg?style=for-the-badge
-[forks-url]: https://github.com/GeorgiosIoannouCoder/shopit/network/members
-[stars-shield]: https://img.shields.io/github/stars/GeorgiosIoannouCoder/shopit.svg?style=for-the-badge
-[stars-url]: https://github.com/GeorgiosIoannouCoder/shopit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/shopit.svg?style=for-the-badge
-[issues-url]: https://github.com/GeorgiosIoannouCoder/shopit/issues
-[license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/shopit.svg?style=for-the-badge
-[license-url]: https://github.com/GeorgiosIoannouCoder/shopit/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
+[contributors-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
+[forks-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/network/members
+[stars-shield]: https://img.shields.io/github/stars/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
+[stars-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/generate-and-test-primeit.svg?style=for-the-badge
+[issues-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/issues
+[license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/generate-and-test-primepit.svg?style=for-the-badge
+[license-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://linkedin.com/in/georgiosioannoucoder
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=000
