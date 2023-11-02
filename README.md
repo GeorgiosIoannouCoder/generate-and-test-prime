@@ -113,7 +113,7 @@ If possible factor equals Number, Then return Number is prime
   git -v
 ```
 
-1. Please make sure you have pyenv installed and use any Python 3 version:
+1. Please make sure you have pyenv installed and use any Python3 version:
 
    - You can use pyenv to switch between different Python versions:
      - Windows: [https://www.youtube.com/watch?v=HTx18uyyHw8](https://github.com/pyenv-win/pyenv-win)
@@ -146,7 +146,7 @@ If possible factor equals Number, Then return Number is prime
    cd generate-and-test-prime
    ```
 
-4. Use any Python 3 version in the cloned repository folder:
+4. Use any Python3 version in the cloned repository folder:
 
    ```sh
    pyenv local 3.xx.xx
