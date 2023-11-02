@@ -168,7 +168,7 @@ If possible factor equals Number, Then return Number is prime
    2. Mac/Linux
 
    ```sh
-   source .fervi-venv/bin/activate
+   source .generate-and-test-prime-venv/bin/activate
    ```
 
 7. Install ipykernel:
@@ -264,9 +264,9 @@ Project Link: [https://github.com/GeorgiosIoannouCoder/generate-and-test-prime](
 [forks-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/network/members
 [stars-shield]: https://img.shields.io/github/stars/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
 [stars-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/generate-and-test-primeit.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
 [issues-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/issues
-[license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/generate-and-test-primepit.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/generate-and-test-prime.svg?style=for-the-badge
 [license-url]: https://github.com/GeorgiosIoannouCoder/generate-and-test-prime/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://linkedin.com/in/georgiosioannoucoder
