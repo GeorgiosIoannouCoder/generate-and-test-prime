@@ -43,6 +43,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -125,7 +126,7 @@ If possible factor equals Number, Then return Number is prime
    - Mac: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
    - Linux: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
 
-#### SetUp
+### Setup
 
 1. Navigate to the directory where you want to clone/run/save the application
 
